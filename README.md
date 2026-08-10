@@ -53,8 +53,9 @@ The three datasets are linked through user_id. The analysis combines feature ado
 ## **Users Distribution by Platform**
 ![2](./charts/2.png)
 * **Android** is the most common platform with **432** users, followed by **iOS** (**364**) and **Web** (**204**).
-
-
+### **Users Signup by Month**
+![3](./charts/3.png)
+* * User signups remained relatively consistent across the first quarter, with **341** in **January**, **315** in **February**, and **344** in **March**.
 
 
 
