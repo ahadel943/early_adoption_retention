@@ -50,4 +50,46 @@ The three datasets are linked through user_id. The analysis combines feature ado
 ### **Users Distribution by Country**
 ![1](./charts/1.png)
 * **Egypt** accounts for the largest share of users (**503**), followed by **Saudi Arabia** (**298**) and the **UAE** (**199**).
+## **Users Distribution by Platform**
+![2](./charts/2.png)
+* **Android** is the most common platform with **432** users, followed by **iOS** (**364**) and **Web** (**204**).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
