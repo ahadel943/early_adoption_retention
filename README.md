@@ -45,3 +45,9 @@ Contains the 30-day retention status for each user.
 
 ## **Dataset Scope**
 The three datasets are linked through user_id. The analysis combines feature adoption timing with 30-day retention to evaluate whether earlier feature adoption is associated with stronger long-term retention.
+
+## **Exploratory Data Analysis**
+### **Users Distribution by Country**
+![1](./charts/1.png)
+* **Egypt** accounts for the largest share of users (**503**), followed by **Saudi Arabia** (**298**) and the **UAE** (**199**).
+
