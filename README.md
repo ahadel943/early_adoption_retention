@@ -46,20 +46,11 @@ Contains the 30-day retention status for each user.
 ## **Dataset Scope**
 The three datasets are linked through user_id. The analysis combines feature adoption timing with 30-day retention to evaluate whether earlier feature adoption is associated with stronger long-term retention.
 
-## **Exploratory Data Analysis**
-### **Users Distribution by Country**
-![1](./charts/1.png)
-* **Egypt** accounts for the largest share of users (**503**), followed by **Saudi Arabia** (**298**) and the **UAE** (**199**).
-## **Users Distribution by Platform**
-![2](./charts/2.png)
-* **Android** is the most common platform with **432** users, followed by **iOS** (**364**) and **Web** (**204**).
-### **Users Signup by Month**
-![3](./charts/3.png)
-* * User signups remained relatively consistent across the first quarter, with **341** in **January**, **315** in **February**, and **344** in **March**.
-
-
-
-
+## **Business Question**
+### **Does Early Feature Adoption predict long-term retention?**
+#### **Baseline KPIs**
+The dataset includes **1,000 users**, with **640 users** adopting the feature, resulting in an **overall 64% adoption rate**. **The overall 30-day retention rate is 56.2%**, providing a baseline for evaluating retention across different adoption-timing segments.
+#### **Analysis**
 
 
 
