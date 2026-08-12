@@ -48,15 +48,22 @@ The three datasets are linked through user_id. The analysis combines feature ado
 
 ## **Business Question**
 ### **Does Early Feature Adoption predict long-term retention?**
-#### **Baseline KPIs**
+### **Baseline KPIs**
 The dataset includes **1,000 users**, with **640 users** adopting the feature, resulting in an **overall 64% adoption rate**. **The overall 30-day retention rate is 56.2%**, providing a baseline for evaluating retention across different adoption-timing segments.
-#### **Analysis**
+### **Analysis**
+#### **Segement Retention Rate**
+![1](./charts/1.png)
+#### **Adopting Users by Segement**
+![2](./charts/2.png)
+#### **Retianed Users by Segement**
+![3](./charts/3.png)
+Retention was compared across feature adoption timing segments by calculating the 30-day retention rate for each group. Users who adopted the feature within the **first 7 days** achieved a **74.94% retention rate**, compared with **54.82%** among users who adopted it **after 7 days**, a difference of **20.12** percentage points.
 
+The results indicate **a strong positive association between early feature adoption and 30-day retention**, suggesting that users who adopt the feature earlier are more likely to remain active over the long term.
 
-
-
-
-
+## **Recommendations**
+* **Encourage new users to discover and adopt the feature within their first 7 days through onboarding prompts, contextual guidance, or targeted in-app messaging.**
+* **Monitor early feature adoption as a potential leading indicator of user retention and prioritize interventions for users who have not adopted the feature during their first week.**
 
 
 
