@@ -65,6 +65,9 @@ The results indicate **a strong positive association between early feature adopt
 * **Encourage new users to discover and adopt the feature within their first 7 days through onboarding prompts, contextual guidance, or targeted in-app messaging.**
 * **Monitor early feature adoption as a potential leading indicator of user retention and prioritize interventions for users who have not adopted the feature during their first week.**
 
+## Tools Used
+- **Excel** — Data preparation & analysis
+- **PowerPoint** — Data visualization
 
 
 
